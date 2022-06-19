@@ -3774,6 +3774,9 @@ label {
     background-size: cover;
     padding-left: 20px;
   }
+  .partners-block__content-list ul li {
+    max-width: 320px;
+  }
   .community-block__wrapper::before {
     display: none;
   }
