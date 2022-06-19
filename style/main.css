@@ -3176,6 +3176,8 @@ label {
 
 .partners-block__content-list ul li {
   position: relative;
+  display: block;
+  max-width: 430px;
 }
 
 .partners-block__content-list ul li:not(:last-child) {
